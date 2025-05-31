@@ -1,0 +1,3 @@
+[submodule "docsh"]
+	path = docsh
+	url = https://gitlab.com/sr-expo/tools/docsh.git
